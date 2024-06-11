@@ -1,16 +1,3 @@
----
-author:
-  name: "Lucas Lion"
-date: 2024-06-11
-linktitle: Meteo
-type:
-- post
-- posts
-title: Meteo
-weight: 10
-series:
-- Projetcs
----
 ### Projet
 
 Applacation météo en flutter
