@@ -1,17 +1,36 @@
-# weather_proj
+---
+author:
+  name: "Lucas Lion"
+date: 2024-06-11
+linktitle: Meteo
+type:
+- post
+- posts
+title: Meteo
+weight: 10
+series:
+- Projetcs
+---
+### Projet
 
-A new Flutter project.
+Applacation météo en flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+| ![Image 1](/meteo1.jpg) | ![Image 2](/meteo2.jpg) | ![Image 3](/meteo3.jpg) |
+|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+| Affichage de la météo actuelle           | Affichage de la météo de la journée           | Affichage de la météo sur la semaine           |
 
-A few resources to get you started if this is your first Flutter project:
+### Fonctionnalités
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Géolocalisation
+- Affichage de la météo actuelle
+- Affichage de la météo de la journée
+- Affichage de la météo sur 7 jours
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-/opt/android-sdk/tools/bin/sdkmanager --licenses
+### Technologies
+
+- Flutter
+
+#### Accessible&nbsp;[ici](https://github.com/lucaslion/weatherapp)
+
+
